@@ -4,6 +4,9 @@ Get memes by taking or uploading a photo, uses GPT 3.5 turbo and Blip2 model fro
 ## Try at 
 https://snapmeme.vercel.app
 
+![image](https://github.com/deifos/snapmeme/assets/3372909/0ad740d3-23f0-452a-ae06-86edb579b516)
+
+
 ## Run
 - npm i 
 - npm run dev
